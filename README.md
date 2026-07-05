@@ -1,6 +1,6 @@
 # files-scanner
 
-![Java CI](https://github.com/behindthep/files-scanner/workflows/Java%20CI/badge.svg)
+[![Build](https://github.com/behindthep/files-scanner/actions/workflows/main.yml/badge.svg)](https://github.com/behindthep/files-scanner/actions/workflows/main.yml)
 
 info here
 
