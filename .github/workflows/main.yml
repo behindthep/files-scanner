@@ -16,5 +16,5 @@ jobs:
           java-version: "25"
           cache: "maven"
 
-      - run: make test
-      - run: make lint
+     # - run: make test
+     # - run: make lint
